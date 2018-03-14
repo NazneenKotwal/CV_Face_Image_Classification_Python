@@ -1,0 +1,18 @@
+ECE 763 Computer Vision
+
+In face detection, we attempt to infer a discrete label indicating whether a face is present or 
+not based on observed image data. Through this project I aim to achieve face image classification 
+using Gaussian model, Mixture of Gaussian model, t-distribution, Mixture of t-distribution, 
+and Factor Analysis. 
+
+The databse used in this project is the Helen Database. It can be found here:
+http://www.ifp.illinois.edu/~vuongle2/helen/
+
+For each classification model the results are reported as follows:
+1. Visualization of the the estimated mean(s) and covariance matrix for face and non-face 
+respectively.
+2. Evaluation of the learned model on the testing images using 0.5 as threshold for the 
+posterior by computing the false positive rate, false negative rate and the misclassification 
+rate.
+3. Plot of the Receiver Operating Characteristic Curve (ROC Curve) to evaluate the diagnostic 
+ability of the binary classifier.
