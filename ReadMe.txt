@@ -7,6 +7,7 @@ and Factor Analysis.
 
 The database used in this project is the Helen DB. It can be found here:
 http://www.ifp.illinois.edu/~vuongle2/helen/
+The images used for training and testing the classifiers have not been included since it exceeds the file size limit.
 
 For each classification model the results are reported as follows:
 1. Visualization of the the estimated mean(s) and covariance matrix for face and non-face 
