@@ -5,7 +5,7 @@ not based on observed image data. Through this project I aim to achieve face ima
 using Gaussian model, Mixture of Gaussian model, t-distribution, Mixture of t-distribution, 
 and Factor Analysis. 
 
-The databse used in this project is the Helen Database. It can be found here:
+The database used in this project is the Helen DB. It can be found here:
 http://www.ifp.illinois.edu/~vuongle2/helen/
 
 For each classification model the results are reported as follows:
